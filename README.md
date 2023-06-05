@@ -2,9 +2,9 @@
 
 ![App Demo](demo.gif)
 
-<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/381d8ca7-0fb4-4103-bb08-f0c0189abcce" alt="Image 1" height="550" width="220">
-<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/c828ff57-63fc-4945-a457-e0a138f74c2c" alt="Image 2" height="550" width="220">
-<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/d920d4bd-c237-4fd2-b851-da6048aae39c" alt="Image 3" height="550" width="220">
+<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/381d8ca7-0fb4-4103-bb08-f0c0189abcce" alt="Image 1" height="550" width="280">
+<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/c828ff57-63fc-4945-a457-e0a138f74c2c" alt="Image 2" height="550" width="280">
+<img src="https://github.com/Vaibhavyadav350/Music_UI/assets/105127780/d920d4bd-c237-4fd2-b851-da6048aae39c" alt="Image 3" height="550" width="280">
 
 
 This project is a Flutter-based music player user interface (UI) that focuses on aesthetics and visual appeal. It provides a sleek and modern design for a music player app. 🎵🎧🎶
