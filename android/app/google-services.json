@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22756151043",
+    "project_id": "music-bed5a",
+    "storage_bucket": "music-bed5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22756151043:android:9491f91e1b7444bc4fa336",
+        "android_client_info": {
+          "package_name": "com.vaibhav.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22756151043-93pvlp02vnu6oeh9ldo8129bqps6n3rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmgGZMhyd0GbwlocfE0V0wlzxI7lWrdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22756151043-93pvlp02vnu6oeh9ldo8129bqps6n3rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
