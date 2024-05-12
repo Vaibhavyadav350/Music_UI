@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "22756151043",
-    "project_id": "music-bed5a",
-    "storage_bucket": "music-bed5a.appspot.com"
+    "project_number": "691461275135",
+    "project_id": "vytech-48cc3",
+    "storage_bucket": "vytech-48cc3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:22756151043:android:9491f91e1b7444bc4fa336",
+        "mobilesdk_app_id": "1:691461275135:android:56ea0fa331803c406bbbca",
         "android_client_info": {
           "package_name": "com.vaibhav.music_player"
         }
       },
       "oauth_client": [
         {
-          "client_id": "22756151043-93pvlp02vnu6oeh9ldo8129bqps6n3rf.apps.googleusercontent.com",
+          "client_id": "691461275135-chjgo105fj163t2u61um9svt50k35s85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaibhav.music_player",
+            "certificate_hash": "0ac68de3ccaae139950f34e610345087e492cc5c"
+          }
+        },
+        {
+          "client_id": "691461275135-2mgs1tk2d7n68sbqaram3n9ug6n4gove.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBBmgGZMhyd0GbwlocfE0V0wlzxI7lWrdY"
+          "current_key": "AIzaSyBALKvXm4qSaFJ8qYvU3J_V7mxy8oOli_8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "22756151043-93pvlp02vnu6oeh9ldo8129bqps6n3rf.apps.googleusercontent.com",
+              "client_id": "691461275135-2mgs1tk2d7n68sbqaram3n9ug6n4gove.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
